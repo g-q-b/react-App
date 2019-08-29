@@ -1,0 +1,31 @@
+.Detail{
+    padding-bottom: 1.3rem;
+}
+.Detail .Detail_div1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Detail .Detail_h3{
+    font:800 .4rem/1rem '';
+    text-align: center;
+    width: 100%;
+    background: whitesmoke;
+    color: #000;
+}
+.Detail .Detail_img{
+    margin: .3rem 0 0 .5rem;
+    width: 90%;
+    box-shadow:0 0 .1rem #000 ;
+}
+.Detail .Detail_h4{
+    width: 100%;
+    font:800 .4rem/.8rem '楷体';
+    text-align: center;
+}
+.Detail .Detail_p{
+    text-indent: 2em;
+    font: .3rem/.6rem '';
+    margin:0 .2rem;
+}

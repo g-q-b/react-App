@@ -1,0 +1,29 @@
+.Header{
+    width: 100%;
+    font: .4rem/1rem '';
+    text-align: center;
+    background: cornflowerblue;
+}
+
+.Header_ul{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Header_ul .Header_li{
+    width: 100%;
+    color:#fff;
+}
+
+.Header_ul .Header_fan{
+    /* width: 50%; */
+    color: #fff;
+}
+
+.Header_ul .Header_li:hover{
+    /* background: white; */
+    color:yellow;
+    /* height: 1rem; */
+}

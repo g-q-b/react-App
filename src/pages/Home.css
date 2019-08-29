@@ -1,0 +1,15 @@
+.div1{
+    height: 5rem;
+    background: url(../assets//img/dianzi.jpg);
+    background-size: 100% 5rem;
+}
+.div2{
+    height: 5rem;
+    background: url(../assets//img/paoche.jpg);
+    background-size: 100% 5rem;
+}
+.div3{
+    height: 5rem;
+    background: url(../assets//img//sheyin.jpg);
+    background-size: 100% 5rem;
+}

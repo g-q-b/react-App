@@ -1,0 +1,14 @@
+.Cell{
+    margin:0rem 0 0 .2rem;
+    padding-bottom: .3rem;
+}
+.Cell .Cell_h2{
+    font:800 .4rem/.6rem '';
+    border-bottom:.05rem solid red;
+    width: 30%; 
+}
+.Cell .Cell_h3{
+    text-indent: .7rem;
+    font: .4rem/.8rem '';
+    border-bottom:.1rem dashed gainsboro; 
+}

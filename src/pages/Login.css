@@ -1,0 +1,28 @@
+.Login{
+
+}
+.Login .Login_img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border:.02rem solid black;
+    margin: 1rem 0 1rem 3.5rem;
+    
+}
+.Login .Login_span{
+    font-size:.4rem;
+    margin-left: .8rem;
+    display: inline-block;
+}
+.Login .Login_text{
+    border-bottom: .05rem solid gainsboro;
+    margin:.4rem 0;
+}
+.Login .Login_button{
+    border: .05rem solid white;
+    background: skyblue;
+    width: 4rem;
+    font: .4rem/1rem '';
+    color: #fff;
+    margin:1rem 0 0 .7rem;
+}

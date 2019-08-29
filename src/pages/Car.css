@@ -1,0 +1,31 @@
+.Car{
+    padding-bottom: 1.3rem;
+}
+.Car .Car_div1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Car .Car_h3{
+    font:800 .4rem/1rem '';
+    text-align: center;
+    width: 100%;
+    background: whitesmoke;
+    color: #000;
+}
+.Car .Car_img{
+    margin-top: .3rem;
+    width: 100%;
+    box-shadow:0 0 .1rem #000 ;
+}
+.Car .Car_h4{
+    width: 100%;
+    font:800 .4rem/.8rem '楷体';
+    text-align: center;
+}
+.Car .Car_p{
+    font: .35rem/.6rem '';
+    text-indent: 2em;
+    margin:0 .2rem;
+}
